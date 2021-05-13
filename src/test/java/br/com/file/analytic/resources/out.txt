@@ -1,0 +1,4 @@
+Quantidade de clientes: 2
+Quantidade de vendedores: 2
+Id da venda mais cara: 10 de valor 1199.0
+Pior vendedor: Paulo
